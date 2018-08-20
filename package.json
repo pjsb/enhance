@@ -1,0 +1,19 @@
+{
+  "name": "enhance",
+  "version": "1.1.0",
+  "description": "Enhance.js is a small JavaScript workflow designed to help developers progressively enhance a page in a qualified manner.",
+  "main": "enhance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pjsb/enhance.git"
+  },
+  "author": "@scottjehl, @beep, @wilto, @maggiewachs, and Filament Group, Inc.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pjsb/enhance/issues"
+  },
+  "homepage": "https://github.com/pjsb/enhance#readme"
+}
